@@ -18,28 +18,27 @@ I'm a fulltime flutter developer with 4+ years of experience.
 I'm very passionate about building mobile and web apps in flutter.
 I've had a great time working on project in teams.
 
-### Some Projects
+<!-- ### Some Projects -->
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ejasackey&repo=v-fibre_locator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ejasackey&repo=v-fibre_locator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
   
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
 🌱 I’m currently learning 
-  - Building responsive UI with react
-  - Testing React projects
-  - Experimenting with new implementations of flask
+  - Dockerizing flutter web applications
+  - CI/CD in flutter with codemagic
 
-💻 Some stats about me
-
+<!-- 💻 Some stats about me -->
+<!-- 
 <p>
   
   ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt)
     
   [![Gideon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_ultron&count_private=true&theme=cobalt&langs_count=10)](https://github.com/yeboah326)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeboah326&lang_count=10&theme=cobalt)](https://github.com/yeboah326)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejasackey&lang_count=10&theme=cobalt)](https://github.com/Ejasackey)
 
-</p>
+</p> -->
 
 
 <!--
