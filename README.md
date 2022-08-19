@@ -1,30 +1,26 @@
-### Hi, I'm Gideon 👋
-#### Technologies
+# Hi, Emmanuel here 👋
+### Technologies
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e8ff00?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-0a3069?style=flat-square&logo=python&logoColor=yellow"/>
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-009603?style=flat-square&logo=django&logoColor=white"/>
-  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-0a3069?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-</p>
-
-#### Contact me
-<p>
-  <a href="https://github.com/yeboah326" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/__ultron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/gideon-yeboah-a-81258a142/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <img  src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue"/>
+  <img  src="https://img.shields.io/badge/-Adobe XD-pink?style=for-the-badge&logo=adobexd&logoColor=indigo" />
+  <img  src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/-Actions-white?style=for-the-badge&logo=githubactions&logoColor=blue"/>
+  <img  src="https://img.shields.io/badge/-Codemagic-blue?style=for-the-badge&logo=codemagic&logoColor=orange"/>
+  <img  src="https://img.shields.io/badge/-Firebase-blue?style=for-the-badge&logo=firebase&logoColor=yellow"/>
+  <img  src="https://img.shields.io/badge/-Google Maps-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+<!--   <img  src="https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=blue" /> -->
 </p>
 
 
-#### About me
-😄 Pronouns: He/Him/Me
+### About me
 
-🔭 I’m currently working on a vehicle rental application using ReactJS for the frontend, Flask for the API and PostgreSQL for the database.
+I'm a fulltime flutter developer with 4+ years of experience.
+I'm very passionate about building mobile and web apps in flutter.
+I've had a great time working on project in teams.
 
-  
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+### Some Projects
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ejasackey&repo=v-fibre_locator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
