@@ -27,6 +27,11 @@ I've had a great time working on project in teams.
 🌱 I’m currently learning 
   - Dockerizing flutter web applications
   - CI/CD in flutter with codemagic
+  
+  ## 📫 Reach me on:
+<a href="https://www.linkedin.com/in/sackeynuel/">
+  <img alt=LinkedIn src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <!-- 💻 Some stats about me -->
 <!-- 
