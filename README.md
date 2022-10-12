@@ -2,6 +2,7 @@
 ### Technologies
 <p>
   <img  src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue"/>
+  <img  src="https://img.shields.io/badge/-Bloc-white?style=for-the-badge&logo=bloc&logoColor=blue"/>
 <!--   <img  src="https://img.shields.io/badge/-Adobe XD-pink?style=for-the-badge&logo=adobexd&logoColor=indigo" /> -->
 <!--   <img  src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white"/> -->
   <img  src="https://img.shields.io/badge/-Actions-white?style=for-the-badge&logo=githubactions&logoColor=blue"/>
