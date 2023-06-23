@@ -28,23 +28,23 @@ I've had a great time working on project in teams.
 🌱 I’m currently learning 
   - Dockerizing flutter web applications
   - CI/CD in flutter with codemagic
+
+###  Stats 💻
+
+<p>
+  <img  src="https://www.codewars.com/users/Ejasackey/badges/large"/>
+  <!--![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt) -->
+    
+  [![Sackey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ejas&count_private=true&theme=cobalt&langs_count=10)](https://github.com/Ejasackey)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejasackey&lang_count=10&theme=cobalt)](https://github.com/Ejasackey)
+
+</p>
   
   ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/sackeynuel/">
   <img alt=LinkedIn src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<!-- 💻 Some stats about me -->
-<!-- 
-<p>
-  
-  ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt)
-    
-  [![Gideon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_ultron&count_private=true&theme=cobalt&langs_count=10)](https://github.com/yeboah326)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejasackey&lang_count=10&theme=cobalt)](https://github.com/Ejasackey)
-
-</p> -->
 
 
 <!--
