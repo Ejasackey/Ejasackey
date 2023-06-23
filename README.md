@@ -35,7 +35,7 @@ I've had a great time working on project in teams.
   <img  src="https://www.codewars.com/users/Ejasackey/badges/large"/>
   <!--![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt) -->
     
-  [![Sackey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ejas&count_private=true&theme=cobalt&langs_count=10)](https://github.com/Ejasackey)
+  <!--[![Sackey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ejas&count_private=true&theme=cobalt&langs_count=10)](https://github.com/Ejasackey) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejasackey&lang_count=10&theme=cobalt)](https://github.com/Ejasackey)
 
